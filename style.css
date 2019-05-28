@@ -1,0 +1,30 @@
+#largeBlackText {
+    font-size: 32px;
+    font-weight: 700;
+}
+.blackItalicParagraphText1 {
+    font-style: italic;
+    margin-bottom: 15px;
+    color: black;
+}
+#blueLink {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#list1 {
+    visibility: hidden;
+}
+.listItem {
+    text-indent: 5px;
+}
+#advice {
+    color:aqua;
+    background:blue;
+    padding:10px;
+}
+.style {
+   font-weight: bold;
+    color: blue;
+    display: inline;
+}
